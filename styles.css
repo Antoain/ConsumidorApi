@@ -53,3 +53,11 @@ button:hover {
     max-width: 100px;
     border-radius: 50%; 
 }
+
+#recomendacion {
+    margin-top: 20px;
+    background: #bae5a0;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+}
